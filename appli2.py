@@ -1,7 +1,7 @@
 import random
 def Generate_OTP():
     return random.randint(100000, 999999)
-print('Welcome to Craftofia Creations')
+print('Welcome to flipzon')
 a={}
 phone_number=[]
 option1=input('l/r')
